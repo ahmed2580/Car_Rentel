@@ -1,0 +1,13 @@
+@import '_variables.scss';
+
+body{
+  background: $bodyClr;  
+}
+h1{
+    color: $baisClr;
+}
+.form-frame{
+  border: solid 2px $baisClr;
+  padding: 2em;
+  border-radius: 1em;
+}
