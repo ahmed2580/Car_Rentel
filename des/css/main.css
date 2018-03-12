@@ -1,0 +1,13 @@
+/*Colors*/
+/*Width*/
+/*Fonts*/
+body {
+  background: #ffe7e8; }
+
+h1 {
+  color: #37646f; }
+
+.form-frame {
+  border: solid 2px #37646f;
+  padding: 2em;
+  border-radius: 1em; }

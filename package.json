@@ -1,18 +1,23 @@
 {
-  "name": "blue-print",
+
+  "name": "car-rentel",
   "version": "1.0.0",
-  "description": "",
+  "description": "description of the app-project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+
+  "author": "Eyad Naveed Baseel",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "browser-sync": "^2.23.6",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^3.2.0",
     "gulp-uglify": "^3.0.0"
-  }
+  },
+  "dependencies": {}
+
 }
